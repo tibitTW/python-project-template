@@ -6,6 +6,7 @@
 
 - `pyproject.toml`: ruff config
 - `pyrightconfig.json`: pyright config
+- `venv_setup.sh`: quickly setup virtual environment and install packages listed in `requirements.txt`
 
 ## Editor Setup
 
